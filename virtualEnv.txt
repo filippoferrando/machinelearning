@@ -1,0 +1,3 @@
+virtualenv -p python3 .         //new virtual env
+source bin/activate         //start virtual env
+deactivate      //stop virtual env
